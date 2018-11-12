@@ -1,0 +1,12 @@
+# Conclusions
+
+## Challenges
+
+  ### Microsoft R
+      
+      Discuss Microsoft's acquisition of Revolution Analytics. 
+      Performance advantanges of Microsoft R
+      
+## Future developments
+  
+  ## Collaborations on open data platforms

@@ -1,0 +1,17 @@
+# Selling
+
+## Enterprise
+
+  ### RStudio Commercial
+      
+      Discuss the commercial version of RStudio IDE, possibly with side by side example of the differences in interface and functionality.
+      
+  ### Shiny Server Pro
+    
+    Differences between free and Pro versions
+  
+  ### RServer Pro
+
+## Professional Education
+  
+  ### Corporate training
