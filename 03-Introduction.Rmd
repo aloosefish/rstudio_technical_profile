@@ -1,7 +1,13 @@
 # Introduction
 
-## Evolution of R
+This report is a profile of the company RStudio. It focuses on how RStudio has affected the evolution of data analytics by its creation and support of tools that modernize the R programming language and statistical computing environment. It also produces materials that teach these tools, including blogs, interactive tutorials, and books.
 
+## Evolution of R
+(https://doi-org.proxy.lib.pdx.edu/10.1111/j.1740-9713.2018.01169.)[link]
+#### Beginnings
+#### Version 1.0
+#### CRAN
 ### Opensource
+
 ## RStudio history
 ### Impact of RStudio IDE

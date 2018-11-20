@@ -10,9 +10,7 @@ link-citations: yes
 description: "Technical Report on RStudio"
 
 ---
-# Letter of Transmission
-
-| Ian Davis
+# Letter of Transmittal| Ian Davis
 | aloosefish
 | 262 Northern Ave
 | Boston, MA 02210
@@ -28,6 +26,8 @@ description: "Technical Report on RStudio"
 Dear Dr. Kares,
 
 This report is a profile of the company RStudio. It focuses on how RStudio affected the evolution of data analytics by its creation and support of tools that modernize the R programming language and statistical computing environment. RStudio also produces materials that teach these tools, including blogs, interactive tutorials, and books.
+
+The report will summarize RStudio's contributions to...
 
 I hope this report meets your expectations
 

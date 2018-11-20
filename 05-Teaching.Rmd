@@ -1,7 +1,11 @@
 # Teaching
 
 ## R for data science
+### Summary
+### Importance
+### Community
 
 ## Deep learning in R
+  Deep learning in R as an example making cutting edge technology accessible for non-experts
 
 ## Datacamp

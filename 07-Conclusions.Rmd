@@ -2,11 +2,13 @@
 
 ## Challenges
 
-  ### Microsoft R
+### Microsoft R
       
-      Discuss Microsoft's acquisition of Revolution Analytics. 
-      Performance advantanges of Microsoft R
+Discuss Microsoft's acquisition of Revolution Analytics. 
+Performance advantanges of Microsoft R using benchmarks
       
 ## Future developments
   
-  ## Collaborations on open data platforms
+## Collaborations on open data platforms
+### Ursa Labs / Apache Arrow
+### Alternative plaforms (MatLab, Stan)

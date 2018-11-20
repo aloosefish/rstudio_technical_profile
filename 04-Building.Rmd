@@ -1,7 +1,44 @@
 # Building
 
 ## RStudio IDE
+### IDE
+An IDE, or integrated development environment, is to writing code what a word processor is to writing words. Code can be written using basically any text editor, but there are numerous benefits to using an IDE. 
+
+#### One, syntax-highlighting, formatting
+
+Syntax-highlighing makes it easier to see if a syntax error is present in your code. Rather than waiting until the code is run and trying to understand the error from the error message, syntax-highlighting lets you see errors as they are made. This is analogous to inline spellchecking in a word processor like Microsoft Word.
+
+#### Text formatting
+
+Text formatting changes adjusts the arrangement of code in a document to make it easier to read. RStudio also allows companies with specific code-styling and formatting standards to input custom configurations.
+
+{{visual example}}
+
+#### Two, run code locally, contrast with running code using console.
+
+The "integrated" in integrated development environment refers to ability to write code and see its output or result in a single interface. This is in contrast to writing code for a website, but needing to open a browser or navigate a file system to see the result.
+
+Because R can a variety of data visualizations, RStudio extends this functionality to include a resizable "Viewer" window within the RStudio interface.
+
+#### Three, text-completion,  integrated documentation
+
+There are thousands of packages in CRAN. RStudio include rich text-completion capabilities for all functions and data structure in loaded packages. This greatly simplifies the process of writing code as you no longer needs to commit to memory every single function you might need to use. As soon as you start typing into RStudio, it pulls up any function that matches what you type.
+
+If, as you are writing code, you are unsure which function to use, you are always a single typestroke away from the documentation.
 
 ## Shiny
+### Introductory discussion
+
+Modern readers are accustom to dynamic, interactive data visualizatons. Until recently, R vast graphical capabilities were limited to statiic forms. If an analyst wanted to create and publish interactive vixualizations, they needed to learn some pretty advanced web development.
+
+
+### Context of dynamic web interfaces
+### Before Shiny
+#### Learning web development
 
 ## Tidyverse
+### Introductory discussion
+#### Grammar of data manipulation
+##### 80/20 wrangling to analysis
+how tidyverse aims to shift the time spent away from wrangling to analysis.
+#### Grammar of graphics
