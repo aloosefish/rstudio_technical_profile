@@ -25,7 +25,7 @@
 <meta name="author" content="Ian Davis">
 
 
-<meta name="date" content="2018-11-16">
+<meta name="date" content="2018-11-20">
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -131,7 +131,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <li><a href="./">RStudio Technical Profile</a></li>
 
 <li class="divider"></li>
-<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Letter of Transmission</a></li>
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> Letter of Transmittal| Ian Davis</a></li>
 <li class="chapter" data-level="2" data-path="intro.html"><a href="intro.html"><i class="fa fa-check"></i><b>2</b> List of Figures</a></li>
 <li class="chapter" data-level="3" data-path="abstract.html"><a href="abstract.html"><i class="fa fa-check"></i><b>3</b> Abstract</a></li>
 <li class="chapter" data-level="4" data-path="introduction.html"><a href="introduction.html"><i class="fa fa-check"></i><b>4</b> Introduction</a><ul>
@@ -143,7 +143,6 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <li class="chapter" data-level="5" data-path="building.html"><a href="building.html"><i class="fa fa-check"></i><b>5</b> Building</a><ul>
 <li class="chapter" data-level="5.1" data-path="building.html"><a href="building.html#rstudio-ide"><i class="fa fa-check"></i><b>5.1</b> RStudio IDE</a><ul>
 <li class="chapter" data-level="5.1.1" data-path="building.html"><a href="building.html#ide"><i class="fa fa-check"></i><b>5.1.1</b> IDE</a></li>
-<li class="chapter" data-level="5.1.2" data-path="building.html"><a href="building.html#rstudio"><i class="fa fa-check"></i><b>5.1.2</b> RStudio</a></li>
 </ul></li>
 <li class="chapter" data-level="5.2" data-path="building.html"><a href="building.html#shiny"><i class="fa fa-check"></i><b>5.2</b> Shiny</a><ul>
 <li class="chapter" data-level="5.2.1" data-path="building.html"><a href="building.html#introductory-discussion"><i class="fa fa-check"></i><b>5.2.1</b> Introductory discussion</a></li>
@@ -205,24 +204,24 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <div id="ide" class="section level3">
 <h3><span class="header-section-number">5.1.1</span> IDE</h3>
 <p>An IDE, or integrated development environment, is to writing code what a word processor is to writing words. Code can be written using basically any text editor, but there are numerous benefits to using an IDE.</p>
-<div id="one-syntax-highlighting-profiling" class="section level4">
-<h4><span class="header-section-number">5.1.1.1</span> One, syntax highlighting, profiling</h4>
+<div id="one-syntax-highlighting-formatting" class="section level4">
+<h4><span class="header-section-number">5.1.1.1</span> One, syntax-highlighting, formatting</h4>
+<p>Syntax-highlighing makes it easier to see if a syntax error is present in your code. Rather than waiting until the code is run and trying to understand the error from the error message, syntax-highlighting lets you see errors as they are made. This is analogous to inline spellchecking in a word processor like Microsoft Word.</p>
+</div>
+<div id="text-formatting" class="section level4">
+<h4><span class="header-section-number">5.1.1.2</span> Text formatting</h4>
+<p>Text formatting changes adjusts the arrangement of code in a document to make it easier to read. RStudio also allows companies with specific code-styling and formatting standards to input custom configurations.</p>
+<p>{{visual example}}</p>
 </div>
 <div id="two-run-code-locally-contrast-with-running-code-using-console." class="section level4">
-<h4><span class="header-section-number">5.1.1.2</span> Two, run code locally, contrast with running code using console.</h4>
+<h4><span class="header-section-number">5.1.1.3</span> Two, run code locally, contrast with running code using console.</h4>
+<p>The “integrated” in integrated development environment refers to ability to write code and see its output or result in a single interface. This is in contrast to writing code for a website, but needing to open a browser or navigate a file system to see the result.</p>
+<p>Because R can a variety of data visualizations, RStudio extends this functionality to include a resizable “Viewer” window within the RStudio interface.</p>
 </div>
 <div id="three-text-completion-integrated-documentation" class="section level4">
-<h4><span class="header-section-number">5.1.1.3</span> Three, text-completion, integrated documentation</h4>
-</div>
-</div>
-<div id="rstudio" class="section level3">
-<h3><span class="header-section-number">5.1.2</span> RStudio</h3>
-<div id="before-rstudio-ide" class="section level4">
-<h4><span class="header-section-number">5.1.2.1</span> Before RStudio IDE</h4>
-<div id="case-study" class="section level5">
-<h5><span class="header-section-number">5.1.2.1.1</span> Case study</h5>
-<p>RStudio’s flagship product is it’s eponymous IDE.</p>
-</div>
+<h4><span class="header-section-number">5.1.1.4</span> Three, text-completion, integrated documentation</h4>
+<p>There are thousands of packages in CRAN. RStudio include rich text-completion capabilities for all functions and data structure in loaded packages. This greatly simplifies the process of writing code as you no longer needs to commit to memory every single function you might need to use. As soon as you start typing into RStudio, it pulls up any function that matches what you type.</p>
+<p>If, as you are writing code, you are unsure which function to use, you are always a single typestroke away from the documentation.</p>
 </div>
 </div>
 </div>
@@ -230,6 +229,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <h2><span class="header-section-number">5.2</span> Shiny</h2>
 <div id="introductory-discussion" class="section level3">
 <h3><span class="header-section-number">5.2.1</span> Introductory discussion</h3>
+<p>Modern readers are accustom to dynamic, interactive data visualizatons. Until recently, R vast graphical capabilities were limited to statiic forms. If an analyst wanted to create and publish interactive vixualizations, they needed to learn some pretty advanced web development.</p>
 </div>
 <div id="context-of-dynamic-web-interfaces" class="section level3">
 <h3><span class="header-section-number">5.2.2</span> Context of dynamic web interfaces</h3>

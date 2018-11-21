@@ -1,13 +1,23 @@
 # Introduction
 
-This report is a profile of the company RStudio. It focuses on how RStudio has affected the evolution of data analytics by its creation and support of tools that modernize the R programming language and statistical computing environment. It also produces materials that teach these tools, including blogs, interactive tutorials, and books.
+The proliferation of data brought on by the widespread use of information technology has made data analysis an important part of many professions. Journalists sift through terabytes of leaked documents to find and investigate stories (WikiLeaks, Panama Papers). Marketers and designers use data on web traffic, site visitor behavior, even which areas of a page visitors focus cursors on to evalute how well a new campaign is working (Google Analytics). Literature professors can track changes in the vocabulary used throughout a novelist's long career and speculate about the author's cognitive decline ([Agatha Christie](https://magazine.utoronto.ca/research-ideas/culture-society/vocabulary-analysis-agatha-christie-novel-alzheimers-disease-ian-lancashire/)). 
+
+Data is everywhere and it informs decisions made at every level of society. So the tools for data analysis have evolved to better serve this changing world. RStudio has been on the forefront of this evolution.
+
+This report is a profile of RStudio. It focuses on how they have affected the evolution of data analytics by its creation of tools to advance the R programming language and statistical computing environment. They also produce materials that teach these tools, including blogs, interactive tutorials, and books.
+
 
 ## Evolution of R
-(https://doi-org.proxy.lib.pdx.edu/10.1111/j.1740-9713.2018.01169.)[link]
+[https://doi-org.proxy.lib.pdx.edu/10.1111/j.1740-9713.2018.01169.](link)
+
 #### Beginnings
-#### Version 1.0
+
+R began as a pet project of two statistics professors at the University of Auckland, New Zealand in 1993.  They
+
 #### CRAN
-### Opensource
+
+CRAN, the Comprehensive R Archive Network, is a network of servers that host the source code for R and all of the user-submitted "packages". These are collections of related data analyis and programming tools centered around a specific functionality, for example, working with tabular data (spreadsheets)
+
 
 ## RStudio history
 ### Impact of RStudio IDE
