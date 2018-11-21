@@ -2,13 +2,20 @@
 title: "Report on RStudio"
 author: "Ian Davis"
 date: "`r Sys.Date()`"
-site: bookdown::bookdown_site
+output:
+  pdf_document: 
+    keep_tex: yes
+    number_sections: yes
+    toc: yes
+  word_document: default
+description: Technical Report on RStudio
 documentclass: book
-bibliography: [book.bib, packages.bib]
-biblio-style: apalike
 link-citations: yes
-description: "Technical Report on RStudio"
-
+bibliography:
+- book.bib
+- packages.bib
+site: bookdown::bookdown_site
+biblio-style: apalike
 ---
 # Letter of Transmittal| Ian Davis
 | aloosefish
