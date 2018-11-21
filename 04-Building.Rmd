@@ -14,31 +14,42 @@ Text formatting changes adjusts the arrangement of code in a document to make it
 
 {{visual example}}
 
-#### Two, run code locally, contrast with running code using console.
+#### run code locally, contrast with running code using console.
 
 The "integrated" in integrated development environment refers to ability to write code and see its output or result in a single interface. This is in contrast to writing code for a website, but needing to open a browser or navigate a file system to see the result.
 
-Because R can a variety of data visualizations, RStudio extends this functionality to include a resizable "Viewer" window within the RStudio interface.
+Because R can be used to create a variety of data visualizations, RStudio incorporate a resizable "Viewer" window within the RStudio interface.
 
-#### Three, text-completion,  integrated documentation
+#### text-completion,  integrated documentation
 
-There are thousands of packages in CRAN. RStudio include rich text-completion capabilities for all functions and data structure in loaded packages. This greatly simplifies the process of writing code as you no longer needs to commit to memory every single function you might need to use. As soon as you start typing into RStudio, it pulls up any function that matches what you type.
+There are thousands of packages in CRAN. RStudio includes rich text-completion capabilities for all functions and data structures in loaded packages. This greatly simplifies the process of writing code as you no longer needs to commit to memory every single function you might need to use. As soon as you start typing into RStudio, it pulls up any function that matches what you type.
 
 If, as you are writing code, you are unsure which function to use, you are always a single typestroke away from the documentation.
 
+#### Version Control
+
+Nothing is worse than losing work you have spent a lot of time on. 
+
+#### Tracking Progress
+
+#### Collaboration
+
+Global teams, using RStudio as an example
+
 ## Shiny
-### Introductory discussion
 
-Modern readers are accustom to dynamic, interactive data visualizatons. Until recently, R vast graphical capabilities were limited to statiic forms. If an analyst wanted to create and publish interactive vixualizations, they needed to learn some pretty advanced web development.
+Modern readers are accustom to dynamic, interactive data visualizatons. Until recently, R vast graphical capabilities were limited to static forms. If an analyst wanted to create and publish interactive visualizations on the web, they needed to learn some pretty advanced web development, which is may or may not be of interest to an analyst.
 
-
-### Context of dynamic web interfaces
-### Before Shiny
-#### Learning web development
+Shiny is a package that allows analysts who only know R to create interactive data visualizations using tools with which they are already familiar.
 
 ## Tidyverse
+
 ### Introductory discussion
+
 #### Grammar of data manipulation
+
 ##### 80/20 wrangling to analysis
-how tidyverse aims to shift the time spent away from wrangling to analysis.
+
+The tidyverse aims to shift the time spent away from wrangling to analysis.
+
 #### Grammar of graphics

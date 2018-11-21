@@ -1,11 +1,25 @@
 # Teaching
 
-## R for data science
+## R for data science (book)
+
 ### Summary
+
+*R for data science*, often referred to as “R4DS”, is an introduction to doing data science using R.  Data science involves using modern computing technologies and statistics to gain insight from raw data. The target audience for this book has some programming experience, understands basic statistics, and is comfortable working with data. Hadley Wickham, the co-author of *R4DS*, is Chief Scientist at RStudio. He and his team develop some of the most widely used R packages, many of which are grouped together as the “tidyverse”.
+
 ### Importance
+
+ *R4DS* is for students, researchers, and professionals who want to work efficiently and ensure that their results are reproducible. Computer programming has a reputation for being very difficult to learn. Unlike many other books on the subject, R4DS is both thorough and accessible. For this reason, it is immensely popular and a global community of learners and teachers has formed around it.
+
+
 ### Community
 
-## Deep learning in R
-  Deep learning in R as an example making cutting edge technology accessible for non-experts
+## Deep learning in R (book)
 
-## Datacamp
+Co-authored by J.J. Allaire, the founder and CEO of RStudio, Deep learning in R is a practical overview of deep learning in R using the keras package. Deep learning, a kind of artificial intelligence, uses layers of “rules” extracted from large data sets. These rules form a model that can be used to create new responses to new data. 
+  Deep learning in R as an example making cutting edge technology accessible for non-experts
+  
+  Artificial intelligence gets a lot of attention in mainstream, non-technical, media. The term is both intriguing and terrifying. (Robots taking everyone’s job!) *Deep learning in R* is about what artificial intelligence actually is and how it can be useful for certain kinds of data analysis.
+
+## DataCamp (online service)
+
+DataCamp is an online education platform that teaches data science with an emphasis on R and Python, another programming language.

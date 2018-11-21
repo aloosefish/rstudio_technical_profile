@@ -11,4 +11,4 @@ Performance advantanges of Microsoft R using benchmarks
   
 ## Collaborations on open data platforms
 ### Ursa Labs / Apache Arrow
-### Alternative plaforms (MatLab, Stan)
+### Alternative plaforms (Python, MatLab, Stan)
